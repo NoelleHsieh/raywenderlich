@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/begin.iml" filepath="$PROJECT_DIR$/.idea/modules/begin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/app.iml" group="beginning_android_layouts/app" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/beginning_android_layouts.iml" filepath="$PROJECT_DIR$/.idea/modules/beginning_android_layouts.iml" group="beginning_android_layouts" />
     </modules>
   </component>
 </project>
